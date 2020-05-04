@@ -1,4 +1,3 @@
-<script>
 /*
 Bootstable
  @description  Javascript library to make HMTL tables editable, using Bootstrap
@@ -301,5 +300,4 @@ function TableToCSV(tabId, separator) {  //Convierte tabla a CSV
     });
     return tmp;
 }
-</script>
 
